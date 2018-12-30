@@ -1,4 +1,4 @@
-# vue-demo
+# vue Quote Traker
 
 ## Project setup
 ```
